@@ -1,0 +1,1 @@
+SELECT * From [DoctorWho].dbo.tblAuthor
